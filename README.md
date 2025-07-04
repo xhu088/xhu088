@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, Xinjie here 👋
 
-<!--
-**kosam0913/kosam0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Technical Artist** in the content creation industry, currently working my way into full-stack development to create cool stuff.
 
-Here are some ideas to get you started:
+## 🎨 What I Do
+- MLOps + Deep Learning
+- Develop solutions and automate workflows to help studios run smoothly and deliver efficiently
+- Build things that are pretty, useful, and fun
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Skills
+- Developer (Python is my go-to language)
+- Turning ideas into reality (⚡️high execution power)
+- Breaking down complex problems into executable plans
+- Solving challenges with curiosity and a bit of humor
+
+## 🚀 Favorite Projects
+- **treeview**: My current pride and joy (not open source... yet, but it's [right here](https://chromewebstore.google.com/detail/notion-task-tree-viewer/ckoknomfbeadbnmkppidchmhmeaflbka))
+- **github.io**: Brain by me, hands by Cursor — thank you [Anthropic](https://www.anthropic.com/), for making self-advertising a bit easier
+
+## 🌐 Find Me Online
+- Portfolio: [kosam0913.github.io](https://kosam0913.github.io)
+- Email: kosam0913@gmail.com
+
+## 🏸 Fun Facts
+- Love badminton — certified badminton umpire (三级裁判证)
+- Used to love adventure sports (30s already, zen mode 👩‍🍳)
+- Always up for a steep learning curve
