@@ -18,7 +18,8 @@ I'm a **Technical Artist** in the content creation industry, currently working m
 - **github.io**: Brain by me, hands by Cursor — thank you [Anthropic](https://www.anthropic.com/), for making self-advertising a bit easier
 
 ## 🌐 Find Me Online
-- Portfolio: [xhu088.github.io](https://xhu088.github.io)
+- Portfolio: [kosam0913.github.io](https://kosam0913.github.io)
+- Email: [kosam0913@gmail.com](mailto:kosam0913@gmail.com)
 
 ## 🏸 Fun Facts
 - Love badminton — certified badminton umpire (三级裁判证)
